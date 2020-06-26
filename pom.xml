@@ -11,7 +11,7 @@
 
 	<groupId>pt.ist</groupId>
 	<artifactId>dot4j</artifactId>
-	<version>3.0.0-SNAPSHOT</version>
+	<version>DEV-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Dot Api Facade for Java</name>
@@ -23,27 +23,6 @@
 		<developerConnection>scm:git:git://github.com/ist-dsi/dot-java-sdk.git</developerConnection>
 	</scm>
 
-	<developers>
-		<developer>
-			<id>davidmartinho</id>
-			<name>David Martinho</name>
-			<email>davidmartinho@tecnico.ulisboa.pt</email>
-			<roles>
-				<role>developer</role>
-			</roles>
-			<timezone>0</timezone>
-		</developer>
-
-		<developer>
-			<id>rsbarata</id>
-			<name>Ricardo Barata</name>
-			<email>ricardo.barata@tecnico.ulisboa.pt</email>
-			<roles>
-				<role>developer</role>
-			</roles>
-			<timezone>0</timezone>
-		</developer>
-	</developers>
 
 	<modules>
 		<module>dot4j-api</module>
